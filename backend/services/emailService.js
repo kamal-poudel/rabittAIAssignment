@@ -12,13 +12,17 @@ const getTransporter = () => {
     }
 
     transporter = nodemailer.createTransport({
-      service: "gmail",
+      host: "smtp.gmail.com",
+      port: 465,
+      secure: true, // Use SSL/TLS
       auth: {
         user: process.env.EMAIL_USER,
         pass: process.env.EMAIL_PASS,
       },
       pool: true,
       maxConnections: 5,
+      socketTimeout: 30000,
+      connectionTimeout: 30000,
     });
   }
   return transporter;
