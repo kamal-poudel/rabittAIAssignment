@@ -1,0 +1,51 @@
+Date,Product_Category,Region,Units_Sold,Unit_Price,Revenue,Status
+2024-01-05,Electronics,North America,120,299.99,35998.80,Completed
+2024-01-08,Apparel,Europe,85,49.99,4249.15,Completed
+2024-01-12,Electronics,Asia Pacific,200,249.99,49998.00,Completed
+2024-01-15,Home & Garden,North America,60,89.99,5399.40,Completed
+2024-01-18,Apparel,South America,40,59.99,2399.60,Pending
+2024-01-22,Electronics,Europe,150,319.99,47998.50,Completed
+2024-01-25,Sports,North America,90,79.99,7199.10,Completed
+2024-01-28,Home & Garden,Asia Pacific,75,99.99,7499.25,Completed
+2024-02-02,Electronics,North America,180,289.99,52198.20,Completed
+2024-02-05,Apparel,Europe,110,44.99,4948.90,Completed
+2024-02-08,Sports,Asia Pacific,95,69.99,6649.05,Completed
+2024-02-12,Home & Garden,Europe,55,109.99,6049.45,Completed
+2024-02-15,Electronics,South America,130,269.99,35098.70,Completed
+2024-02-18,Apparel,North America,70,54.99,3849.30,Completed
+2024-02-22,Sports,Europe,80,74.99,5999.20,Returned
+2024-02-25,Electronics,Asia Pacific,220,259.99,57197.80,Completed
+2024-03-01,Home & Garden,North America,65,94.99,6174.35,Completed
+2024-03-05,Apparel,Asia Pacific,100,39.99,3999.00,Completed
+2024-03-08,Electronics,Europe,175,309.99,54248.25,Completed
+2024-03-12,Sports,South America,50,84.99,4249.50,Pending
+2024-03-15,Home & Garden,Europe,80,114.99,9199.20,Completed
+2024-03-18,Electronics,North America,210,279.99,58797.90,Completed
+2024-03-22,Apparel,Europe,95,47.99,4559.05,Completed
+2024-03-25,Sports,Asia Pacific,115,72.99,8393.85,Completed
+2024-03-28,Home & Garden,South America,45,89.99,4049.55,Completed
+2024-04-02,Electronics,Europe,160,329.99,52798.40,Completed
+2024-04-05,Apparel,North America,88,51.99,4575.12,Completed
+2024-04-08,Sports,Europe,70,82.99,5809.30,Completed
+2024-04-12,Electronics,Asia Pacific,240,239.99,57597.60,Completed
+2024-04-15,Home & Garden,North America,72,104.99,7559.28,Returned
+2024-04-18,Apparel,South America,55,42.99,2364.45,Completed
+2024-04-22,Electronics,North America,195,299.99,58498.05,Completed
+2024-04-25,Sports,Asia Pacific,105,77.99,8188.95,Completed
+2024-04-28,Home & Garden,Europe,68,119.99,8159.32,Completed
+2024-05-02,Electronics,Europe,185,319.99,59198.15,Completed
+2024-05-05,Apparel,Asia Pacific,115,43.99,5058.85,Completed
+2024-05-08,Sports,North America,98,86.99,8525.02,Completed
+2024-05-12,Home & Garden,Asia Pacific,82,97.99,8035.18,Completed
+2024-05-15,Electronics,South America,145,274.99,39873.55,Completed
+2024-05-18,Apparel,Europe,105,46.99,4933.95,Completed
+2024-05-22,Sports,South America,62,79.99,4959.38,Pending
+2024-05-25,Electronics,North America,225,289.99,65247.75,Completed
+2024-05-28,Home & Garden,Europe,76,112.99,8587.24,Completed
+2024-06-01,Apparel,North America,92,56.99,5243.08,Completed
+2024-06-05,Electronics,Asia Pacific,260,249.99,64997.40,Completed
+2024-06-08,Sports,Europe,88,81.99,7215.12,Completed
+2024-06-12,Home & Garden,North America,70,102.99,7209.30,Completed
+2024-06-15,Electronics,Europe,190,324.99,61748.10,Completed
+2024-06-18,Apparel,Asia Pacific,122,41.99,5122.78,Returned
+2024-06-22,Sports,Asia Pacific,118,76.99,9084.82,Completed
