@@ -12,6 +12,7 @@ const authRoutes = require("./routes/authRoutes");
 const analyzeRoutes = require("./routes/analyzeRoutes");
 
 const app = express();
+app.set("trust proxy", 1);
 
 // ─────────────────────────────────────────────
 // Security Headers
